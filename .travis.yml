@@ -1,0 +1,4 @@
+language: R
+sudo: FALSE
+cache: package
+warnings_are_errors:FALSE
