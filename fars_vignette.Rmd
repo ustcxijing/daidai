@@ -1,0 +1,11 @@
+---
+title: "Coursera Building R Packages Week 4 Assignment"
+author: "Jing Xi"
+date: "`Dec 7, 2022`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Coursera Building R Packages Week 4 Assignment}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
