@@ -3,7 +3,7 @@ Type: Package
 Title: Coursera Building R Packages Week 4 Assignment
 Version: 0.1.0
 Author: Jing Xi
-Maintainer: Jing Xi <qianyu1225@gmail.com>
+Maintainer: Jing Xi <ustcxijing@gmail.com>
 Description: This is for the week 4 assignment for Coursera course "Building R Packages".
 License: GPL-2
 Encoding: UTF-8
